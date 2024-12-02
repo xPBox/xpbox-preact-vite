@@ -18,7 +18,7 @@
 		"eslint": "^8.57.0",
 		"eslint-config-preact": "^1.4.0",
 		"typescript": "^5.4.5",
-		"vite": "^5.2.2"
+		"vite": "^6.0.2"
 	},
 	"eslintConfig": {
 		"extends": "preact"
